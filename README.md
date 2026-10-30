@@ -7,7 +7,7 @@ Anonymous. ACL 2026.
 
 ## Paper
 Accepted at **ACL 2026 Findings** \
-[Read]((https://aclanthology.org/2026.findings-acl.1750/)
+[Read](https://aclanthology.org/2026.findings-acl.1750/)
 
 ## Overview
 FWE-IKE improves demonstration selection for In-Context Knowledge Editing (IKE) through a confidence-aware ensemble of multiple retrieval strategies.
